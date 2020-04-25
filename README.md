@@ -2,8 +2,8 @@
 
 # FluidImplicitParticle
 
-This is a prototype of Fluid Implicit Particle (FLIP) for fluid simulation that is widely applied in movie and game industry.
+This is a prototype of Fluid Implicit Particle (FLIP) for fluid simulation which is widely applied in movie and game industry.
 
-For more details, please refer the book "Fluid Simulation for Computer Graphics" by Robert Bridson.
+For more details, please refer to the book "Fluid Simulation for Computer Graphics" by Robert Bridson.
 
-Have fun!
+Have fun playing with the code.
